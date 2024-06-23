@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CFGS DAW Integrated Final Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project has been developed for my TFG for my end of studies at CFGS DAW.",
+    url: "https://github.com/Rubencito2002/proyectoIntegrado.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CFGS DAW Course Content",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This repository has all my content during my last year of the CFGS DAW.",
+    url: "https://github.com/Rubencito2002/DAW.git",
   },
   {
-    title: "My Resume Site",
+    title: "Marvel Character Search",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project was one of the first that I have developed using REACT, it is a character search engine using the Marvel API.",
+    url: "https://github.com/Rubencito2002/marvel-explorer.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Library Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a project developed using Django to develop an application for selling books in a bookstore.",
+    url: "https://github.com/ieshm-2daw/libreria-Rubencito2002.git",
   },
 ];
 
