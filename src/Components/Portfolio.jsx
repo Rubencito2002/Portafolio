@@ -54,6 +54,12 @@ const projectList = [
       "It is a project developed using Django to develop an application for selling books in a bookstore.",
     url: "https://github.com/ieshm-2daw/libreria-Rubencito2002.git",
   },
+  {
+    title: "Project of Bootstrapp & CSS",
+    description:
+      "This is a project that has been developed from a bootstrap workshop with own css.",
+    url: "https://rubencito2002.github.io/ProyectoBootstrapConCSS/",
+  },
 ];
 
 const Portfolio = () => {
